@@ -1,4 +1,4 @@
-import useState from "react";
+import {useState} from "react";
 import Student from "./Student"
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
           score: 77
         },
         {
-          date: '2018-04-22',
+          date: '2018  -04-22',
           score: 92
         },
         {
